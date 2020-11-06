@@ -14,10 +14,20 @@ export const Navbar = styled.div`
 
 export const Left = styled.div`
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
 
   width: 30%;
+
+  > input {
+    margin-left: 16px;
+    padding: 12px 28px;
+    border: none;
+    background: var(--body-color);
+    border-radius: 20px;
+    font-size: 14px;
+    outline: 0;
+  }
 `
 
 export const Center = styled.div`
@@ -30,6 +40,10 @@ export const Center = styled.div`
   > div {
     cursor: pointer;
     position: relative;
+
+    &:hover {
+      
+    }
 
     > span {
       background: var(--notification-color);
@@ -63,6 +77,10 @@ export const Right = styled.div`
     align-items: center;
     border-radius: 10px;
     cursor: pointer;
+
+    &:hover {
+      
+    }
 
     > span {
       margin-left: 8px;

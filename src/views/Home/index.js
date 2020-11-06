@@ -1,12 +1,20 @@
 import React from 'react';
 
-import { Container } from './styles';
+import { Wrapper } from './styles';
 
 import Header from '../../components/Header';
+import Sidebar from '../../components/Sidebar';
+import Main from '../../components/Main';
 
 function Home() {
   return (
-    <Header />
+    <>
+      <Header />
+      <Wrapper>
+        <Sidebar />
+        <Main />
+      </Wrapper>
+    </>
   );
 }
 

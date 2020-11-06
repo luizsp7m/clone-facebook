@@ -2,23 +2,24 @@ import React from 'react';
 
 import { Navbar, Left, Center, Right } from './styles';
 
-import { FaFacebook, FaFacebookMessenger, FaUserCircle } from 'react-icons/fa'
-import { AiFillHome, AiFillShop, AiOutlinePlus } from 'react-icons/ai'
-import { FiUsers } from 'react-icons/fi'
-import { BsCollectionPlay } from 'react-icons/bs'
-import { HiOutlineUserGroup, HiBell } from 'react-icons/hi'
-import { IoMdArrowDropdown } from 'react-icons/io'
+import { FaFacebook, FaFacebookMessenger, FaUserCircle } from 'react-icons/fa';
+import { AiFillHome, AiFillShop, AiOutlinePlus } from 'react-icons/ai';
+import { FiUsers } from 'react-icons/fi';
+import { BsCollectionPlay } from 'react-icons/bs';
+import { HiOutlineUserGroup, HiBell } from 'react-icons/hi';
+import { IoMdArrowDropdown } from 'react-icons/io';
 
 function Header() {
   return (
     <Navbar>
       <Left>
-        <FaFacebook size={46} color="#0B83ED" />
+        <FaFacebook size={42} color="#0B83ED" />
+        <input type="text" placeholder="Pesquisar no Facebook" />
       </Left>
 
       <Center>
         <div>
-          <FaUserCircle size={26} color="#0B83ED" />
+          <AiFillHome size={26} color="#0B83ED" />
         </div>
 
         <div>
