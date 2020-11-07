@@ -27,6 +27,7 @@ export const Left = styled.div`
     border-radius: 20px;
     font-size: 14px;
     outline: 0;
+    color: #333;
   }
 `
 
