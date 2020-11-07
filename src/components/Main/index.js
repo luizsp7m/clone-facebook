@@ -3,8 +3,10 @@ import React from 'react';
 import { Container, Wrapper, StorieSection, PostContainer } from './styles';
 
 import { FaUserCircle, FaVideo } from 'react-icons/fa';
-import { MdPhotoLibrary } from 'react-icons/md'; 
+import { MdPhotoLibrary } from 'react-icons/md';
 import { BiHappyAlt } from 'react-icons/bi';
+
+import Card from '../Card';
 
 function Main() {
   return (
@@ -36,7 +38,12 @@ function Main() {
         />
       </StorieSection>
 
-      <Post />
+      <NewPost />
+
+      <Card image="https://images.wallpaperscraft.com/image/silhouette_city_street_123496_1280x720.jpg" />
+
+      <Card image="https://images.wallpaperscraft.com/image/road_turn_trees_191931_1280x720.jpg" />
+
     </Container>
   );
 }
@@ -48,7 +55,7 @@ const Storie = ({ profile, title, image }) => (
   </Wrapper>
 );
 
-const Post = () => (
+const NewPost = () => (
   <PostContainer>
     <div>
       <FaUserCircle size={48} color="#ddd" />
