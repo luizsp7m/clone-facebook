@@ -7,3 +7,5 @@
 Projeto desenvolvido para reproduzir a interface do Facebook utilizando ReactJS
 
 ## Resultado
+
+![](https://github.com/luizsp7m/clone-facebook/blob/master/src/assets/resultado.gif?raw=true)
