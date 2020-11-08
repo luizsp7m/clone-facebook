@@ -52,7 +52,8 @@ export const PostContainer = styled.div`
   background: #FFF;
   border-radius: 10px;
   padding: 8px 16px;
-  box-shadow: 2px 2px 3px rgba(0, 0, 0, .09);
+  /* box-shadow: 2px 2px 3px rgba(0, 0, 0, .09); */
+  border: 1px solid rgba(0, 0, 0, .1);
 
   > div {
     display: flex;
