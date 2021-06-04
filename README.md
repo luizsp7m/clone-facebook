@@ -1,11 +1,15 @@
-# UI Clone - Facebook
+# Clone UI - Facebook
 
-![](https://img.shields.io/github/languages/count/luizsp7m/clone-facebook) ![](https://img.shields.io/github/languages/top/luizsp7m/clone-facebook) ![](https://img.shields.io/github/last-commit/luizsp7m/clone-facebook) ![](https://img.shields.io/github/repo-size/luizsp7m/clone-facebook)
+This is a [Facebook](https://www.facebook.com/) UI Clone.
 
-## Descrição
+###### Warning: This application is not responsive.
 
-Projeto desenvolvido para reproduzir a interface do Facebook utilizando ReactJS
+##### [Site URL](https://clone-facebook-blond.vercel.app/) 
 
-## Resultado
+![](./src/assets/resultado.gif)
 
-![](https://github.com/luizsp7m/clone-facebook/blob/master/src/assets/resultado.gif?raw=true)
+### Built with
+- [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
+- [React Icons](https://react-icons.github.io/react-icons/) - Icons
+- Flexbox
