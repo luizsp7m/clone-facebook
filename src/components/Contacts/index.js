@@ -18,9 +18,9 @@ function Contacts() {
       </Row>
 
       <List>
-        <Contact image="https://pbs.twimg.com/profile_images/1252216496530620416/HU6g_1Te_400x400.jpg" name="DJ Azeitona" />
-        <Contact image="https://www.dicasdemulher.com.br/wp-content/uploads/2011/10/capitao-nascimento-carreira.jpg" name="Capitão Nascimento" />
-        <Contact image="https://pbs.twimg.com/media/EDEvfs2XkAUVrDY.jpg" name="Craque Neto" />
+        <Contact image="https://pbs.twimg.com/profile_images/1252216496530620416/HU6g_1Te_400x400.jpg" name="Mudou nome" />
+        <Contact image="https://www.dicasdemulher.com.br/wp-content/uploads/2011/10/capitao-nascimento-carreira.jpg" name="Sueli" />
+        <Contact image="https://pbs.twimg.com/media/EDEvfs2XkAUVrDY.jpg" name="Video" />
       </List>
 
     </Container>
