@@ -13,36 +13,37 @@ function Main() {
     <Container>
       <StorieSection>
         <Storie
-          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
+          image="/assets/story_1.jpg"
           title="Lago"
         />
 
         <Storie
-          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
-          title="Floresta"
+          image="/assets/story_2.jpg"
+          title="Tronco"
         />
 
         <Storie
-          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
-          title="Farol"
+          image="/assets/story_3.jpg"
+          title="Folha"
         />
 
         <Storie
-          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
-          title="Folhas"
+          image="/assets/story_4.jpg"
+
+          title="Cachoeira"
         />
 
         <Storie
-          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
-          title="Leds"
+          image="/assets/story_5.jpg"
+          title="Balões"
         />
       </StorieSection>
 
       <NewPost />
 
-      <Card image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg" />
+      <Card image="/assets/pub_1.jpg" />
 
-      <Card image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg" />
+      <Card image="/assets/pub_2.jpg" />
 
     </Container>
   );
