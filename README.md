@@ -6,7 +6,7 @@ This is a [Facebook](https://www.facebook.com/) UI Clone.
 
 ##### [Site URL](https://clone-facebook-blond.vercel.app/) 
 
-![](./src/assets/resultado.gif)
+![](./public/assets/resultado.gif)
 
 ### Built with
 - [React](https://reactjs.org/) - JS library
