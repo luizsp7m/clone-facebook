@@ -18,8 +18,8 @@ function Contacts() {
       </Row>
 
       <List>
-        <Contact image="https://www.dicasdemulher.com.br/wp-content/uploads/2011/10/capitao-nascimento-carreira.jpg" name="Capitão Nascimento" />
-        <Contact image="https://pbs.twimg.com/media/EDEvfs2XkAUVrDY.jpg" name="Craque Neto" />
+        <Contact image="https://www.dicasdemulher.com.br/wp-content/uploads/2011/10/capitao-nascimento-carreira.jpg" name="Capitão Nascimento mudou" />
+        <Contact image="https://pbs.twimg.com/media/EDEvfs2XkAUVrDY.jpg" name="Craque Neto mudou" />
       </List>
 
     </Container>
