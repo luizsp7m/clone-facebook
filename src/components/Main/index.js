@@ -13,36 +13,36 @@ function Main() {
     <Container>
       <StorieSection>
         <Storie
-          image="https://images.wallpaperscraft.com/image/lake_forest_hills_191782_1280x720.jpg"
+          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
           title="Lago"
         />
 
         <Storie
-          image="https://images.wallpaperscraft.com/image/forest_trees_sunlight_191877_1280x720.jpg"
+          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
           title="Floresta"
         />
 
         <Storie
-          image="https://images.wallpaperscraft.com/image/lighthouse_rock_aerial_view_191845_1280x720.jpg"
+          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
           title="Farol"
         />
 
         <Storie
-          image="https://images.wallpaperscraft.com/image/branch_leaves_yellow_191839_1280x720.jpg"
+          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
           title="Folhas"
         />
 
         <Storie
-          image="https://images.wallpaperscraft.com/image/neon_lamp_light_191789_1280x720.jpg"
+          image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg"
           title="Leds"
         />
       </StorieSection>
 
       <NewPost />
 
-      <Card image="https://images.wallpaperscraft.com/image/silhouette_city_street_123496_1280x720.jpg" />
+      <Card image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg" />
 
-      <Card image="https://images.wallpaperscraft.com/image/road_turn_trees_191931_1280x720.jpg" />
+      <Card image="https://images.wallpaperscraft.com/image/single/fractal_pattern_circles_243699_1280x720.jpg" />
 
     </Container>
   );
